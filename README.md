@@ -26,6 +26,8 @@ Operating systems: Microsoft windows, Linux
 
 email @ priyaaggarwal27@gmail.com
 
+AI conferences deadline
+https://huggingface.co/spaces/huggingface/ai-deadlines
 
 <!---
 DrPriya27/DrPriya27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
