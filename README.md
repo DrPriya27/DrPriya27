@@ -29,6 +29,8 @@ email @ priyaaggarwal27@gmail.com
 AI conferences deadline
 https://huggingface.co/spaces/huggingface/ai-deadlines
 
+https://github.com/huggingface/ai-deadlines
+
 <!---
 DrPriya27/DrPriya27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
